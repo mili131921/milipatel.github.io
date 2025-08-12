@@ -45,7 +45,7 @@ Analyzed trends in Disney movie gross revenue from 1937 – 2016. Used Tableau f
 
 ## 📄 Resume
 
-- [📄 Download My Resume (PDF)](./Raj_Shah_Resume.pdf)
+- [📄 Download My Resume (PDF)](./Mili_Patel_Resume_1.pdf)
 
 ---
 
