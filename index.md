@@ -54,5 +54,5 @@ Analyzed trends in Disney movie gross revenue from 1937 – 2016. Used Tableau f
 - 📧 **Email:** <a href="mailto:milipatel0202@gmail.com" title="Email: milipatel0202@gmail.com">milipatel0202@gmail.com</a>  
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/mili-patel-15b2942a3](https://www.linkedin.com/in/mili-patel-15b2942a3/)  
 - 💻 **GitHub:** [github.com/mili131921](https://github.com/mili131921/Projects)  
-- 🌐 **Portfolio:** [mili131921.github.io](https://mili131921.github.io)  
+- 🌐 **Portfolio:** [milipatel1309.github.io](https://milipatel1309.github.io)  
 - 🎓 **Rutgers Handshake:** [handshake.com/profile/n4gq9k](https://rutgers.joinhandshake.com/profiles/gq9kn)
