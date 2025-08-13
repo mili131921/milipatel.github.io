@@ -26,7 +26,7 @@ title: Mili Patel
 
 ### ✈️ Airline Reservation System (SQL)
 Simulates a relational airline booking system using MySQL and schema design. Includes table creation, waitlist logic, and booking reports.  
-🔗 [View Project on GitHub →](https://github.com/rajshah1909/Projects/tree/main/Airline_Reservation_System)
+🔗 [View Project on GitHub →](https://github.com/milipatel1309/Projects/tree/main/Airline_Reservation_System)
 
 
 
